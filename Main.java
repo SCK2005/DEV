@@ -8,7 +8,7 @@ public class Main {
         int f=oop.fact(p);
         System.out.printf("%d", f);
         System.out.println("Thank you :)");
-
+        System.out.println("Done by Sandra");
     }
     
 }
