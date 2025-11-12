@@ -7,6 +7,7 @@ public class Main {
         int p=input.nextInt();
         int f=oop.fact(p);
         System.out.printf("%d", f);
+        System.out.println("Thank you :)");
 
     }
     
