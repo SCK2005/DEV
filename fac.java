@@ -5,6 +5,7 @@ public class fac {
         }
         else{
          return x*fact(x-1);
+         
         }
         
         
